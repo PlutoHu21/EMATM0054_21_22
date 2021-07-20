@@ -9,8 +9,8 @@ Exercise Sheets for Robotic Systems (EMATM0053/54)2021/2022
 This sheet has no exercises, but contains important information on how to effectively debug your code for the mobile 3Pi+ robot.
 
 
-### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L0_Troubleshooting.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L0_Troubleshooting.ipynb) Labsheet 0: Troubleshooting 
-
+### Labsheet 0: Troubleshooting 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L0_Troubleshooting.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L0_Troubleshooting.ipynb)
 This sheet has no exercises, but contains important instructions on how to solve or avoid common problems with your 3Pi+ robot.
 
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L1_MeetTheRomi.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L1_MeetTheRomi.ipynb) Labsheet 1: Meet the 3Pi+ 
