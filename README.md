@@ -1,6 +1,17 @@
 # EMATM0053_21_22
 
-Exercise Sheets for Robotic Systems (EMATM0053/54)2021/2022
+Exercise Sheets for Robotic Systems (EMATM0053/54)2021/2022.
+
+You may use either the Pololu 3Pi+ mobile robot kit provided to you or the Webots simulation of an e-puck robot. These exercise sheets are therefore presented as two sets:
+1) 3Pi+ Exercise Sheets
+2) Webots Exercise Sheets
+
+
+# 3Pi+ Exercise Sheets
+
+# Webots Exercise Sheets
+
+
 
 ## Core Labsheets
 
