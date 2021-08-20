@@ -1,6 +1,19 @@
-# EMATM0053_21_22
+# Robotic Systems (EMATM0053)
 
-Exercise Sheets for Robotic Systems (EMATM0053/54)2021/2022
+<img src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/banner4.JPG?raw=true">
+
+Exercise Sheets for Robotic Systems (EMATM0053)2021/2022.
+
+If you do not have access to a Pololu 3Pi+ mobile robot kit you can study via the Webots simulation of an e-puck robot. These exercise sheets are therefore presented as two sets:
+1) <a href="https://github.com/paulodowd/EMATM0053_21_22/blob/main/README.md#3pi-exercise-sheets">3Pi+ Exercise Sheets</a>
+2) <a href="https://github.com/paulodowd/EMATM0053_21_22/blob/main/README.md#webots-exercise-sheets">Webots Exercise Sheets</a>
+
+
+# 3Pi+ Exercise Sheets
+
+# Webots Exercise Sheets
+
+
 
 ## Core Labsheets
 
@@ -49,4 +62,7 @@ This sheet provides exercises to get your robot moving!  These exercises will he
 ## Advanced Labsheets
 
 
+
+## Suggested Reading
+<a href="https://www.sciencedirect.com/science/article/pii/S0921889014000967?via%3Dihub">Webots Reality Gap</a>
 
