@@ -270,6 +270,20 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1053-8-7-9" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2801-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2799-7" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -278,11 +292,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="-1066.0957"
-     inkscape:cy="576.27112"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="131.63836"
+     inkscape:cy="893.66164"
      inkscape:document-units="mm"
-     inkscape:current-layer="g984-2-9"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      showguides="true"
@@ -305,9 +319,13 @@
        orientation="1,0"
        id="guide934" />
     <sodipodi:guide
-       position="153.0118,218.28913"
+       position="92.207987,66.346398"
        orientation="1,0"
        id="guide936" />
+    <sodipodi:guide
+       position="61.42113,56.607144"
+       orientation="0,-1"
+       id="guide3944" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -699,7 +717,7 @@
        inkscape:export-ydpi="150" />
     <g
        id="g2925"
-       transform="translate(-145.9681,74.428803)"
+       transform="matrix(2.193733,0,0,2.193733,-519.23772,189.55275)"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -710,15 +728,34 @@
          sodipodi:cy="16.437077"
          sodipodi:rx="8.4189901"
          sodipodi:ry="8.4189901"
-         sodipodi:start="0"
+         sodipodi:start="3.1415927"
          sodipodi:end="5.8135854"
          sodipodi:arc-type="arc"
-         d="m 259.51871,16.437077 a 8.4189901,8.4189901 0 0 1 -7.43287,8.361038 8.4189901,8.4189901 0 0 1 -9.1741,-6.402374 8.4189901,8.4189901 0 0 1 5.28373,-9.860864 8.4189901,8.4189901 0 0 1 10.41188,4.092358"
+         d="m 242.68073,16.437077 a 8.4189901,8.4189901 0 0 1 6.46032,-8.1879811 8.4189901,8.4189901 0 0 1 9.4663,4.3781391"
          sodipodi:open="true" />
       <path
          style="fill:#0000ff;stroke:#0000ff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2801)"
          d="m 258.60735,12.627235 1.24661,1.988309"
          id="path2797"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#ffffff;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path1665-1"
+         sodipodi:type="arc"
+         sodipodi:cx="-251.43781"
+         sodipodi:cy="-16.494205"
+         sodipodi:rx="8.4189901"
+         sodipodi:ry="8.4189901"
+         sodipodi:start="3.1415927"
+         sodipodi:end="5.8135854"
+         sodipodi:arc-type="arc"
+         d="m -259.8568,-16.494205 a 8.4189901,8.4189901 0 0 1 6.46033,-8.187981 8.4189901,8.4189901 0 0 1 9.46629,4.378139"
+         sodipodi:open="true"
+         transform="scale(-1)" />
+      <path
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2801-6)"
+         d="m 243.93018,20.304047 -1.24661,-1.988309"
+         id="path2797-1"
          sodipodi:nodetypes="cc" />
     </g>
     <text
@@ -1287,5 +1324,77 @@
        id="path1048-6-1-8"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="76.595543"
+       y="223.59517"
+       id="text3914"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3912"
+         x="76.595543"
+         y="223.59517"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;fill:#666666;stroke-width:0.264583">(Update Controller)</tspan><tspan
+         sodipodi:role="line"
+         x="76.595543"
+         y="228.88683"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan3918">Loop()</tspan><tspan
+         sodipodi:role="line"
+         x="76.595543"
+         y="234.1785"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan3916" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-26.961391"
+       y="224.10767"
+       id="text3914-8"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3912-3"
+         x="-26.961391"
+         y="224.10767"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;fill:#666666;stroke-width:0.264583">(Update Simulator)</tspan><tspan
+         sodipodi:role="line"
+         x="-26.961391"
+         y="229.39932"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan3918-5">wb_robot_step(TIME_STEP)</tspan><tspan
+         sodipodi:role="line"
+         x="-26.961391"
+         y="234.69099"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan3916-7" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="13.229167"
+       y="198.81548"
+       id="text3948"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3946"
+         x="13.229167"
+         y="198.81548"
+         style="font-size:4.23333px;stroke-width:0.264583;fill:#666666;">(new sensor data)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="5.8444147"
+       y="256.28247"
+       id="text3948-3"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3946-4"
+         x="5.8444147"
+         y="256.28247"
+         style="font-size:4.23333px;stroke-width:0.264583;fill:#666666;">(new actuator settings)</tspan></text>
   </g>
 </svg>
