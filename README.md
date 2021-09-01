@@ -1,6 +1,11 @@
 # Robotic Systems (EMATM0053)
 
+<table>
+<tr><td>
 <img src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/banner4.JPG?raw=true">
+  </td>
+  <td>
+    
 
 Exercise Sheets for Robotic Systems (EMATM0053)2021/2022.
 
@@ -8,6 +13,8 @@ If you do not have access to a Pololu 3Pi+ mobile robot kit you can study via th
 1) <a href="https://github.com/paulodowd/EMATM0053_21_22/blob/main/README.md#3pi-exercise-sheets">3Pi+ Exercise Sheets</a>
 2) <a href="https://github.com/paulodowd/EMATM0053_21_22/blob/main/README.md#webots-exercise-sheets">Webots Exercise Sheets</a>
 
+  </td></tr>
+ </table>
 
 # 3Pi+ Exercise Sheets
 
