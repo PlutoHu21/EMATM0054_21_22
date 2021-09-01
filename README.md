@@ -1,6 +1,6 @@
 # Robotic Systems (EMATM0053)
 
-<img width="200" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/banner4.JPG?raw=true">
+<img src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/banner4.JPG?raw=true">
     
 
 Exercise Sheets for Robotic Systems (EMATM0053)2021/2022.
