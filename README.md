@@ -2,7 +2,7 @@
 
 <table>
 <tr><td>
-<img src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/banner4.JPG?raw=true">
+<img width="200" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/banner4.JPG?raw=true">
   </td>
   <td>
     
