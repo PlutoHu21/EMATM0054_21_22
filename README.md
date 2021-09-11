@@ -28,8 +28,11 @@ If you do not have access to a Pololu 3Pi+ mobile robot kit you can study via th
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L1_MeetThe3PI.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L1_MeetThe3PI.ipynb) 
-### Labsheet 1: Meet the 3Pi+ 
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L1_MeetThe3PI.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L1_MeetThe3PI.ipynb) Labsheet 1: Meet the 3Pi+ 
+<table><tr>
+<td><img width="200" src=""></td><td> In this labsheet the basic information on programming the 3Pi+ Robot is reviewed.</td>
+</tr></table>
+
 
 
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L2_Motors.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L2_Motors.ipynb) Labsheet 2: Motors 
