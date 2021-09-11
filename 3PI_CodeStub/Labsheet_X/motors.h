@@ -4,10 +4,12 @@
 #ifndef _MOTORS_H
 #define _MOTORS_H
 
+
+
 // Class to operate the motor(s).
 class Motors_c {
   public:
-  
+  #define P5 5
     // Constructor, must exist.
     Motors_c() {
 
