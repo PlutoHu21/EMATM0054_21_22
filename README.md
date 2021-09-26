@@ -2,17 +2,12 @@
 
 <img src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/banner4.JPG?raw=true">
     
+This webpage hosts the exercise labsheets for Unit of study **Robotic Systems EMATM0054/53** running in academic year **2021/2022**.  You should have been directed here from Blackboard where there are further details on the Unit.
 
-Exercise Sheets for Robotic Systems (EMATM0053)2021/2022.
-
-If you do not have access to a Pololu 3Pi+ mobile robot kit you can study via the Webots simulation of an e-puck robot. These exercise sheets are therefore presented as two sets:
+If you do not have access to a Pololu 3Pi+ mobile robot kit you can study via the Webots simulation of an e-puck robot. You may choose which platform you are using throughout the Unit.  The labsheets are presented as two sets:
 
 ## <a href="https://github.com/paulodowd/EMATM0053_21_22/blob/main/Pololu3PI.md">Pololu 3Pi+ Labsheets</a>
 ## <a href="https://github.com/paulodowd/EMATM0053_21_22/blob/main/Webots.md">Webots Simulator Labsheets</a>
-
-# 3Pi+ Exercise Sheets
-
-
 
 ## Important Notes
 
