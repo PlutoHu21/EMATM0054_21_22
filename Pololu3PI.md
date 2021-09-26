@@ -1,6 +1,6 @@
 # Pololu 3Pi+ Labsheets
 
-The following Labsheets will guide you to write code to operate your 3Pi+.  If you have collected a Pololu 3Pi+ kit, you should have the following components:
+The following Labsheets will guide you to write code to operate your 3Pi+.  The Labsheets are designed to guide you through an incremental process of establishing the skills you need to operate the 3Pi+ robot to solve and evaluate difficult tasks.  If you have collected a Pololu 3Pi+ kit, you should have the following components:
 
 <p align="center">
   <img src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/3PI_Kit.png?raw=true">
@@ -28,7 +28,7 @@ The above illustrates the Line Following Challenge.  This line has been designed
 - Returning home (to where the robot started).
 - Writing a general solution to solve the line traversal in either direction.
 
-In approaching this task, you are encouraged to first of all simplify the problem(s) where necessary.  Later, you are encouraged to explore more difficult configurations of the line.  The objetive of this task is to test and develop your skill.
+In approaching this task, you are encouraged to first of all simplify the problem(s) where necessary.  Later, you are encouraged to explore more difficult configurations of the line.  The objective of this task is to test and develop your skill.  You will later draw on your skill to produce an insightful and meaningful experiment with your 3Pi+ robot as part of your Summative Assessment for the unit.
 
 The following additional materials are also available to you:
 - A video demonstration of a solution to this Line Following Challenge is <a href="https://www.youtube.com/embed/IbfQaGqX-YU">available via Youtube.</a>
