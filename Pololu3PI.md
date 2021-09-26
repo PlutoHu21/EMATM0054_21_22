@@ -1,12 +1,26 @@
 # Pololu 3Pi+ Labsheets
 
-The following Labsheets will guide you to write code to operate your 3Pi+.  The focus of these labsheets is to solve the Line Following Challenge:
+The following Labsheets will guide you to write code to operate your 3Pi+.  If you have collected a Pololu 3Pi+ kit, you should have the following components:
+
+<p align="center">
+  <img width="75%" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/3PI_Kit.png?raw=true">
+</p>
+
+- Please keep your 3Pi+ within it's box when it is not in use.
+- 4x AAA Batteries.
+- The Pololu 3Pi+ mobile robot.
+- A 2m USB Cable, with a micro B end.
+- Black tape.
+
+The focus of these labsheets is to solve the Line Following Challenge:
 
 <p align="center">
 <img width="50%" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/LineChallengeOverview.png?raw=true"> 
 </p>
 
 The above illustrates the Line Following Challenge.  This line has been designed to present specific challenges to your software development.  
+
+
 
 
 
