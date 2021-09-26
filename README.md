@@ -5,8 +5,9 @@
 This webpage hosts the exercise labsheets for Unit of study **Robotic Systems EMATM0054/53** running in academic year **2021/2022**.  You should have been directed here from Blackboard where there are further details on the Unit.
 
 The Unit is split into two 6-week periods:
-- [ Weeks 1-6 ] : A formative period of skill building.  You are presented with the Line Following Challenge to develop skill with a robotic system and it's evaluation.
-- [ Weeks 7-12 ] : A summative period ending in an Assessment of 6-page report on an experiment you have conducted with your Robotic System.  
+- **[ Weeks 1-6 ]** : A formative period of skill building.  You are presented with the Line Following Challenge to develop skill with a robotic system and it's evaluation.  You are supported with weekly lab sessions and drop-in sessions facilitated by the teaching staff. 
+- **[ Weeks 7-12 ]** : A summative period ending in an Assessment of 6-page report on an experiment you have conducted with your Robotic System.  During this period, you will work under supervision to design, implement, conduct, evaluate and document a scientific experiement.
+
 
 If you do not have access to a Pololu 3Pi+ mobile robot kit you can study via the Webots simulation of an e-puck robot. You may choose which platform you are using throughout the Unit.  The labsheets are presented as two sets:
 
