@@ -1,6 +1,10 @@
 # Pololu 3Pi+ Labsheets
 
-The following Labsheets will guide you to write code to operate your 3Pi+.  The focus of these labsheets is to solve the Line Following Challenge.  
+The following Labsheets will guide you to write code to operate your 3Pi+.  The focus of these labsheets is to solve the Line Following Challenge:
+
+<p align="center">
+<img src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/LineChallengeOverview.png?raw=true"> 
+</p>
 
 
 
