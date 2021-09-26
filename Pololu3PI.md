@@ -1,5 +1,11 @@
 # Pololu 3Pi+ Labsheets
 
+The following Labsheets will guide you to write code to operate your 3Pi+.  The focus of these labsheets is to solve the Line Following Challenge.  
+
+
+
+
+
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L1_MeetThe3PI.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L1_MeetThe3PI.ipynb) Labsheet 1: Meet the 3Pi+ 
 
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L2_Motors.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L2_Motors.ipynb) Labsheet 2: Motors 
