@@ -3,7 +3,7 @@
 The following Labsheets will guide you to write code to operate your 3Pi+.  If you have collected a Pololu 3Pi+ kit, you should have the following components:
 
 <p align="center">
-  <img width="75%" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/3PI_Kit.png?raw=true">
+  <img src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/3PI_Kit.png?raw=true">
 </p>
 
 - Please keep your 3Pi+ within it's box when it is not in use.
