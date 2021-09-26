@@ -6,7 +6,7 @@ The following Labsheets will guide you to write code to operate your 3Pi+.  If y
   <img src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/3PI_Kit.png?raw=true">
 </p>
 
-- Please keep your 3Pi+ within it's box when it is not in use.
+- Please keep your 3Pi+ within it's box when it is not in use.  You are expected to return your robot in the same box.
 - 4x AAA Batteries.
 - The Pololu 3Pi+ mobile robot.
 - A 2m USB Cable, with a micro B end.
