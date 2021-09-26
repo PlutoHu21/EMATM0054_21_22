@@ -28,12 +28,8 @@ The above illustrates the Line Following Challenge.  This line has been designed
 - Returning home (to where the robot started).
 - Writing a general solution to solve the line traversal in either direction.
 
-A video demonstration of a solution to this Line Following Challenge is available via Youtube:
-
-<pre>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IbfQaGqX-YU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</pre>
-
+A video demonstration of a solution to this Line Following Challenge is <a href="https://www.youtube.com/embed/IbfQaGqX-YU">available via Youtube.</a>
+A video demonstration of how quickly the line map can be made is also <a href="https://youtu.be/lNk7vgK9Fco">available via Youtube.</a>
 
 
 
