@@ -8,6 +8,7 @@ The Unit is split into two 6-week periods:
 - **[ Weeks 1-6 ]** : A formative period of skill building.  You are presented with the Line Following Challenge to develop skill with a robotic system and it's evaluation.  You are supported with weekly lab sessions and drop-in sessions facilitated by the teaching staff. 
 - **[ Weeks 7-12 ]** : A summative period ending in an Assessment of 6-page report on an experiment you have conducted with your Robotic System.  During this period, you will work under supervision to design, implement, conduct, evaluate and document a scientific experiement.
 
+Please note that during weeks 7-12 technical support and training is greatly reduced - meaning that it is imperative that you engage in skill building during weeks 1-6.
 
 If you do not have access to a Pololu 3Pi+ mobile robot kit you can study via the Webots simulation of an e-puck robot. You may choose which platform you are using throughout the Unit.  The labsheets are presented as two sets:
 
