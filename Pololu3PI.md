@@ -18,11 +18,11 @@ The focus of these labsheets is to solve the Line Following Challenge:
 <img width="50%" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/LineChallengeOverview.png?raw=true"> 
 </p>
 
-The above illustrates the Line Following Challenge.  This line has been designed to present specific challenges to your software development.  This Line Following Challenge can be broken down into the following elements:
-- Driving in a straight line, from either starting box
+The above illustrates the Line Following Challenge.  This line has been designed to present specific challenges to your robotic system development.  This Line Following Challenge can be broken down into the following elements:
+- Driving in a straight line, from either starting box.
 - Joining the Line at a 90&deg; angle.
 - Traversing corners of various types: e.g. 45&deg;, 90&deg;, in either direction.
-- Traversing curves.
+- Traversing curves, in either direction.
 - Traversing a gap in the line, of a distance at least equal to the 3Pi+ box.
 - Identifying the end of the line.
 - Returning home (to where the robot started).
