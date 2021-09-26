@@ -13,6 +13,12 @@ class Kinematics_c {
 
     } 
 
+    // Use this function to update
+    // your kinematics
+    void update() {
+
+    }
+
 };
 
 
