@@ -28,8 +28,11 @@ The above illustrates the Line Following Challenge.  This line has been designed
 - Returning home (to where the robot started).
 - Writing a general solution to solve the line traversal in either direction.
 
-A video demonstration of a solution to this Line Following Challenge is <a href="https://www.youtube.com/embed/IbfQaGqX-YU">available via Youtube.</a>
-A video demonstration of how quickly the line map can be made is also <a href="https://youtu.be/lNk7vgK9Fco">available via Youtube.</a>
+The following additional materials are also available to you:
+- A video demonstration of a solution to this Line Following Challenge is <a href="https://www.youtube.com/embed/IbfQaGqX-YU">available via Youtube.</a>
+- A video demonstration of how quickly the line map can be made is also <a href="https://youtu.be/lNk7vgK9Fco">available via Youtube.</a>
+- <a href="https://github.com/paulodowd/EMATM0053_21_22/tree/main/PrintableSheets">Printable A4 and A3 sheets</a> to help in your development and testing.
+- An Arduino sketch template to help you get started (<a href="https://github.com/paulodowd/EMATM0053_21_22/tree/main/3PI_CodeStub">Github Page</a>, <a href="https://github.com/paulodowd/EMATM0053_21_22/raw/main/3PI_CodeStub/Labsheet_X.zip">Zip Download</a>).
 
 
 
