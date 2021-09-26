@@ -30,8 +30,9 @@ The above illustrates the Line Following Challenge.  This line has been designed
 
 A video demonstration of a solution to this Line Following Challenge is available via Youtube:
 
+<pre>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IbfQaGqX-YU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</pre>
 
 
 
