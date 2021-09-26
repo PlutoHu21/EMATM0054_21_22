@@ -18,16 +18,19 @@ The focus of these labsheets is to solve the Line Following Challenge:
 <img width="50%" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/LineChallengeOverview.png?raw=true"> 
 </p>
 
-This Line Following Challenge can be broken down into the following elements:
+The above illustrates the Line Following Challenge.  This line has been designed to present specific challenges to your software development.  This Line Following Challenge can be broken down into the following elements:
 - Driving in a straight line, from either starting box
 - Joining the Line at a 90&deg; angle.
-- Traversing corners of various types: e.g. 45&deg;, 90&deg;.
+- Traversing corners of various types: e.g. 45&deg;, 90&deg;, in either direction.
 - Traversing curves.
 - Traversing a gap in the line.
 - Identifying the end of the line.
 - Returning home (to where the robot started).
+- Writing a general solution to solve the line traversal in either direction.
 
-The above illustrates the Line Following Challenge.  This line has been designed to present specific challenges to your software development.  
+A video demonstration of a solution to this Line Following Challenge is available via Youtube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IbfQaGqX-YU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
