@@ -23,7 +23,7 @@ The above illustrates the Line Following Challenge.  This line has been designed
 - Joining the Line at a 90&deg; angle.
 - Traversing corners of various types: e.g. 45&deg;, 90&deg;, in either direction.
 - Traversing curves.
-- Traversing a gap in the line.
+- Traversing a gap in the line, of a distance at least equal to the 3Pi+ box.
 - Identifying the end of the line.
 - Returning home (to where the robot started).
 - Writing a general solution to solve the line traversal in either direction.
