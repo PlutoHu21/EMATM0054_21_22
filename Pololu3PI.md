@@ -18,7 +18,7 @@ The focus of these labsheets is to solve the Line Following Challenge:
 <img width="50%" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/LineChallengeOverview.png?raw=true"> 
 </p>
 
-The above illustrates the Line Following Challenge.  This line has been designed to present specific challenges to your robotic system development.  This Line Following Challenge can be broken down into the following elements:
+The above illustrates the Line Following Challenge.  You can recreate this line with the black tape provided, or <a href="https://github.com/paulodowd/EMATM0053_21_22/blob/main/PrintableSheets/LineFollowingMap.pdf">print the map</a>.  This line has been designed to present specific challenges to your robotic system development.  This Line Following Challenge can be broken down into the following elements:
 - Driving in a straight line, from either starting box.
 - Joining the Line at a 90&deg; angle.
 - Traversing corners of various types: e.g. 45&deg;, 90&deg;, in either direction.
