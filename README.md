@@ -14,7 +14,7 @@ If you do not have access to a Pololu 3Pi+ mobile robot kit you can study via th
 
 ## <a href="https://github.com/paulodowd/EMATM0053_21_22/blob/main/Pololu3PI.md">Pololu 3Pi+ Labsheets</a>
 ## <a href="https://github.com/paulodowd/EMATM0053_21_22/blob/main/Webots.md">Webots Simulator Labsheets</a>
-
+<!--
 ## Important Notes
 
 
@@ -27,7 +27,7 @@ If you do not have access to a Pololu 3Pi+ mobile robot kit you can study via th
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/C2_ThinkingClearly.ipynb) Notes: Thinking Clearly
 
 <hr><br><br>
-
+-->
 
 
 
