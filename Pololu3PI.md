@@ -31,6 +31,7 @@ The above illustrates the Line Following Challenge.  You can recreate this line 
 In approaching this task, you are encouraged to first of all simplify the problem(s) where necessary.  Later, you are encouraged to explore more difficult configurations of the line.  The objective of this task is to test and develop your skill.  You will later draw on your skill to produce an insightful and meaningful experiment with your 3Pi+ robot as part of your Summative Assessment for the unit.
 
 The following additional materials are also available to you:
+- A video overview of the 3Pi+ robot and it's relevant components: <a href="https://youtu.be/BRJKrKbe4Uw">Youtube</a>.
 - A video demonstration of a solution to this Line Following Challenge is <a href="https://www.youtube.com/embed/IbfQaGqX-YU">available via Youtube.</a>
 - A video demonstration of how quickly the line map can be made is also <a href="https://youtu.be/lNk7vgK9Fco">available via Youtube.</a>
 - <a href="https://github.com/paulodowd/EMATM0053_21_22/tree/main/PrintableSheets">Printable A4 and A3 sheets</a> to help in your development and testing.
