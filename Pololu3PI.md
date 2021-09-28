@@ -40,7 +40,9 @@ The following additional materials are also available to you:
 # 3Pi+ Overview Video (YouTube)
 
 <p align="center">
+  
 [![3PI+ Overview Video](https://img.youtube.com/vi/BRJKrKbe4Uw/0.jpg)](https://www.youtube.com/watch?v=BRJKrKbe4Uw)
+
 </p>
 
 <a href="https://youtu.be/BRJKrKbe4Uw">Youtube Link</a>
