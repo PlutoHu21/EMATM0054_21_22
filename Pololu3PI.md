@@ -37,6 +37,7 @@ The following additional materials are also available to you:
 - <a href="https://github.com/paulodowd/EMATM0053_21_22/tree/main/PrintableSheets">Printable A4 and A3 sheets</a> to help in your development and testing.
 - An Arduino sketch template to help you get started (<a href="https://github.com/paulodowd/EMATM0053_21_22/tree/main/3PI_CodeStub">Github Page</a>, <a href="https://github.com/paulodowd/EMATM0053_21_22/raw/main/3PI_CodeStub/Labsheet_X.zip">Zip Download</a>).
 
+[![3PI+ Overview Video](https://img.youtube.com/vi/BRJKrKbe4Uw/0.jpg)](https://www.youtube.com/watch?v=BRJKrKbe4Uw)
 
 # Labsheets
 
