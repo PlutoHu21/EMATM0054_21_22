@@ -36,7 +36,7 @@ The following reports are published with explicit permission from the authors, a
   <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Merihan Alhafnawi, Teaching Assistant</td></tr>
     <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Saba Firouznia, Teaching Assistant</td></tr>
     <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Alex Smith, Teaching Assistant</td></tr>
-    <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Peter Wharton, Teaching Assistant</td></tr>
+    <tr><td><img width="150px" src="https://www.farscope.bris.ac.uk/peter-wharton"></td><td>Peter Wharton, Teaching Assistant</td></tr>
     <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Liam Fletcher, Teaching Assistant</td></tr>
     <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Julian Hird, Teaching Assistant</td></tr>
     <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Chris Bennett, Teaching Assistant</td></tr>
