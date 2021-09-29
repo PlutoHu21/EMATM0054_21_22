@@ -32,7 +32,14 @@ The following reports are published with explicit permission from the authors, a
 # Teaching Team:
 
 <table>
-<tr><td><img width="50px" src="https://media-exp1.licdn.com/dms/image/C4D03AQF0NTkKRAj1zw/profile-displayphoto-shrink_800_800/0/1601493011557?e=1638403200&v=beta&t=BRlixjUjpO5xkqezOYENqDICBVpHJWqf_204xTQV-SI"></td><td>Paul O'Dowd, Unit Director</td></tr>
+<tr><td><img width="150px" src="https://media-exp1.licdn.com/dms/image/C4D03AQF0NTkKRAj1zw/profile-displayphoto-shrink_800_800/0/1601493011557?e=1638403200&v=beta&t=BRlixjUjpO5xkqezOYENqDICBVpHJWqf_204xTQV-SI"></td><td>Paul O'Dowd, Unit Director</td></tr>
+  <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Merihan Alhafnawi, Teaching Assistant</td></tr>
+    <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Saba Firouznia, Teaching Assistant</td></tr>
+    <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Alex Smith, Teaching Assistant</td></tr>
+    <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Peter Wharton, Teaching Assistant</td></tr>
+    <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Liam Fletcher, Teaching Assistant</td></tr>
+    <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Julian Hird, Teaching Assistant</td></tr>
+    <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Chris Bennett, Teaching Assistant</td></tr>
 </table>
 
 
