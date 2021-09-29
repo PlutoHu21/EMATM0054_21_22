@@ -48,7 +48,7 @@ The following reports are published with explicit permission from the authors, a
 <hr> 
 
 <p align="center">
-    This <a href="https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=EMATM0054">unit of study</a> is facilitated and delivered to multiple programmes of study by the <a href="http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/">Department of Engineering Mathematics</a>, at the <a href="https://www.bristol.ac.uk/">University of Bristol</a>.
+    This <a href="https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=EMATM0054">unit of study</a> is facilitated and delivered to multiple programmes of study by the <a href="http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/">Department of Engineering Mathematics</a>, at the <a href="https://www.bristol.ac.uk/">University of Bristol, UK</a>.
 <br><br>
 
 <img src="https://www.bristol.ac.uk/media-library/protected/images/uob-logo-full-colour-largest-2.png">
