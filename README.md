@@ -45,7 +45,13 @@ The following reports are published with explicit permission from the authors, a
 
 
 
+<hr> 
 
+This unit of study is facilitated and delivered to multiple programmes of study by the University of Bristol.  
+
+<p align="center">
+<img src="https://www.bristol.ac.uk/media-library/protected/images/uob-logo-full-colour-largest-2.png">
+</p>
 
 
 
