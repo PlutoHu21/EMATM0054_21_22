@@ -14,20 +14,25 @@ If you do not have access to a Pololu 3Pi+ mobile robot kit you can study via th
 
 ## <a href="https://github.com/paulodowd/EMATM0053_21_22/blob/main/Pololu3PI.md">Pololu 3Pi+ Labsheets</a>
 ## <a href="https://github.com/paulodowd/EMATM0053_21_22/blob/main/Webots.md">Webots Simulator Labsheets</a>
-<!--
-## Important Notes
 
 
-### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L0_Troubleshooting.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L0_Troubleshooting.ipynb) Notes: Troubleshooting 
+# Example Reports
 
-### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/C0_Debugging.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/C0_Debugging.ipynb) Notes: Debugging
+The following reports are published with explicit permission from the authors, anonymised where requested.  Please note, in the spirit of learning, in some cases reported details may be incorrect or inaccurate, which were reflected in the mark awarded and feedback provided.  More reports will be made available as permission is gained.
 
-### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/C1_Refactoring.ipynb) Notes: Refactoring
+(<a href="">pdf</a>) “Using PID output and real-time battery voltage to measure the inclination of a 2D plane” 
+(<a href="">pdf</a>) “Obstacle Avoidance using a Single IR TOF Sensor” 
 
-### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/C2_ThinkingClearly.ipynb) Notes: Thinking Clearly
 
-<hr><br><br>
--->
+
+
+
+
+# Teaching Team:
+
+<table>
+<tr><td><img width="50px" src="https://media-exp1.licdn.com/dms/image/C4D03AQF0NTkKRAj1zw/profile-displayphoto-shrink_800_800/0/1601493011557?e=1638403200&v=beta&t=BRlixjUjpO5xkqezOYENqDICBVpHJWqf_204xTQV-SI"></td><td>Paul O'Dowd, Unit Director</td></tr>
+</table>
 
 
 
