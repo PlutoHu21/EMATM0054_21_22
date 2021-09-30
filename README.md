@@ -32,9 +32,9 @@ The following reports are published with explicit permission from the authors, a
 # Teaching Team:
 
 <table>
-<tr><td><img width="150px" src="https://media-exp1.licdn.com/dms/image/C4D03AQF0NTkKRAj1zw/profile-displayphoto-shrink_800_800/0/1601493011557?e=1638403200&v=beta&t=BRlixjUjpO5xkqezOYENqDICBVpHJWqf_204xTQV-SI"></td><td>Paul O'Dowd, Unit Director</td></tr>
+<tr><td><img width="150px" src="https://media-exp1.licdn.com/dms/image/C4D03AQF0NTkKRAj1zw/profile-displayphoto-shrink_800_800/0/1601493011557?e=1638403200&v=beta&t=BRlixjUjpO5xkqezOYENqDICBVpHJWqf_204xTQV-SI"></td><td><a href="https://www.bristol.ac.uk/people/person/Paul-O'Dowd-d54e9ad6-41de-4eef-81c6-1ee227ced8dc/">Paul O'Dowd</a>, Unit Director</td></tr>
   <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Merihan Alhafnawi, Teaching Assistant</td></tr>
-    <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Saba Firouznia, Teaching Assistant</td></tr>
+    <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/Saba.png?raw=true"></td><td>Saba Firouznia, Teaching Assistant</td></tr>
     <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Alex Smith, Teaching Assistant</td></tr>
     <tr><td><img width="150px" src="https://lirp.cdn-website.com/051f8efe/dms3rep/multi/opt/Peter+Wharton-480w.png"></td><td>Peter Wharton, Teaching Assistant</td></tr>
     <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/Liam.JPG?raw=true"></td><td><a href="https://www.farscope.bris.ac.uk/liam-fletcher">Liam Fletcher</a>, Teaching Assistant</td></tr>
@@ -48,7 +48,7 @@ The following reports are published with explicit permission from the authors, a
 <hr> 
 
 <p align="center">
-    This <a href="https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=EMATM0054">unit of study</a> is facilitated and delivered to multiple programmes of study by the <a href="http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/">Department of Engineering Mathematics</a>, at the <a href="https://www.bristol.ac.uk/">University of Bristol, UK</a>.
+    This <a href="https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=EMATM0054">unit of study</a> is facilitated and delivered to multiple programmes of study by the <a href="http://www.bristol.ac.uk/engineering/departments/engineering-mathematics/">Department of Engineering Mathematics</a>, at the <a href="https://www.bristol.ac.uk/">University of Bristol, UK</a>.  Please direct any queries to <a href="https://www.bristol.ac.uk/people/person/Paul-O'Dowd-d54e9ad6-41de-4eef-81c6-1ee227ced8dc/">Paul O'Dowd</a>.
 <br><br>
 
 <img src="https://www.bristol.ac.uk/media-library/protected/images/uob-logo-full-colour-largest-2.png">
