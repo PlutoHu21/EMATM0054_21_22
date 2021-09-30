@@ -26,6 +26,7 @@ The following reports are published with explicit permission from the authors, a
 
 (<a href="https://github.com/paulodowd/EMATM0053_21_22/raw/main/Example%20Reports/T5_RollingSlippage.pdf">pdf</a>) "'They See Me Rolling': Wheel Slippage on an Uphill Slope"
 
+(<a href="https://github.com/paulodowd/EMATM0053_21_22/raw/main/Example%20Reports/SG7_T4_IncMagPerf.pdf">pdf</a>) "Increasing Magnetometer Performance in a Mobile Robot Setup by Noise Reduction Filtering"
 
 
 
