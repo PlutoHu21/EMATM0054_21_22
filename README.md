@@ -18,7 +18,7 @@ If you do not have access to a Pololu 3Pi+ mobile robot kit you can study via th
 
 # Example Reports
 
-The following reports are published with explicit permission from the authors, anonymised where requested.  Please note, in the spirit of learning, in some cases reported details may be incorrect or inaccurate, which was reflected in the mark awarded and feedback provided.  More reports will be made available as permission is gained.
+Previous students have produced skillful, innovative, and insightful work.  The following reports are published with explicit permission from the authors, anonymised where requested.  Please note, in the spirit of learning, in some cases reported details may be incorrect or inaccurate, which was reflected in the mark awarded and feedback provided.  More reports will be made available as permission is gained.
 
 (<a href="https://github.com/paulodowd/EMATM0053_21_22/raw/main/Example%20Reports/SG4_T4_BatVoltage.pdf">pdf</a>) “Using PID output and real-time battery voltage to measure the inclination of a 2D plane” 
 
