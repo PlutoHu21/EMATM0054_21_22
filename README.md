@@ -28,6 +28,9 @@ Previous students have produced skillful, innovative, and insightful work.  The 
 
 (<a href="https://github.com/paulodowd/EMATM0053_21_22/raw/main/Example%20Reports/SG7_T4_IncMagPerf.pdf">pdf</a>) "Increasing Magnetometer Performance in a Mobile Robot Setup by Noise Reduction Filtering"
 
+(<a href="https://github.com/paulodowd/EMATM0053_21_22/raw/main/Example%20Reports/SG2_T4_DynamicKinematicRecalibration.pdf">pdf</a>) "Dynamic Recalibration of the Odometry System Through Markers to Improve Travel Precision"
+
+(<a href="https://github.com/paulodowd/EMATM0053_21_22/raw/main/Example%20Reports/SG5_T4_AngleInc.pdf">pdf</a>) "Exploring a Robots ability to Determine the Angle of Inclination, before Ascension, with a Proximity Sensor"
 
 
 # Teaching Team:
