@@ -32,6 +32,10 @@ Previous students have produced skillful, innovative, and insightful work.  The 
 
 (<a href="https://github.com/paulodowd/EMATM0053_21_22/raw/main/Example%20Reports/SG5_T4_AngleInc.pdf">pdf</a>) "Exploring a Robots ability to Determine the Angle of Inclination, before Ascension, with a Proximity Sensor"
 
+# Experiment Ideas
+
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Experiment_Ideas.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Experiment_Ideas.ipynb) Experiment Ideas
+
 
 # Teaching Team:
 
