@@ -142,7 +142,7 @@ void setupEncoder0()
     // Shift values into correct place in state.
     // Bits 1 and 0  are prior states.
     state_e0 = state_e0 | ( e0_B << 1 );
-    state_e0 = state_e0 | ( e0_B << 0 );
+    state_e0 = state_e0 | ( e0_A << 0 );
 
 
     // Now to set up PE6 as an external interupt (INT6), which means it can
@@ -220,6 +220,10 @@ void setupEncoder1()
     // true value.
     e1_A = e1_A ^ e1_B;
 
+    // Shift values into correct place in state.
+    // Bits 1 and 0  are prior states.
+    state_e1 = state_e1 | ( e1_B << 1 );
+    state_e1 = state_e1 | ( e1_A << 0 );
 
     // Enable pin-change interrupt on A8 (PB4) for encoder0, and disable other
     // pin-change interrupts.
