@@ -42,8 +42,7 @@ These labsheets will not provide you will the final solution for the Line Follow
 
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/WLabsheets/L0_Webots_GettingStarted.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/WLabsheets/L0_Webots_GettingStarted.ipynb) Labsheet 6: PID (to be released soon)
 
-### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/WLabsheets/L0_Webots_GettingStarted.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/WLabsheets/L0_Webots_GettingStarted.ipynb)  Labsheet 7: Mapping (to be released soon)
-
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/EMATM0053_21_22/blob/main/WLabsheets/L7_Mapping.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/WLabsheets/L7_Mapping.ipynb)  Labsheet 7: Mapping 
 
 
 
