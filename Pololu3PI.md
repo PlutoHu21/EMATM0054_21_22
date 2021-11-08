@@ -68,7 +68,7 @@ These labsheets will not provide you will the final solution for the Line Follow
 
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L7_PID.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Core/L7_PID.ipynb) Labsheet 7: PID 
 
-# Advanced Labsheets
+# Supplementary Labsheets
 
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Supplementary/SL0_MeasuringBatteryVoltage.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Supplementary/SL0_MeasuringBatteryVoltage.ipynb) Supplementary Labsheet 0: Measuring Battery Voltage 
 
@@ -80,3 +80,4 @@ These labsheets will not provide you will the final solution for the Line Follow
 
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Supplementary/SL4_NonVolatileMemory.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Supplementary/SL4_NonVolatileMemory) Supplementary Labsheet 4: Non-Volatile Memory 
 
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Supplementary/SL5_RetrieveSerialData.ipynb)  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/paulodowd/EMATM0053_21_22/blob/main/Labsheets/Supplementary/SL5_RetrieveSerialData.ipynb) Supplementary Labsheet 5: Retrieve Serial Data before Reset 
